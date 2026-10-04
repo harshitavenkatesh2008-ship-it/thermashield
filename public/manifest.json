@@ -1,0 +1,14 @@
+{
+  "name": "ThermaShield",
+  "short_name": "ThermaShield",
+  "description": "Track your invisible thermal exposure across hot and cool environments.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#0D9488",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/assets/images/icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/assets/images/favicon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
